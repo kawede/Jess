@@ -1,0 +1,38 @@
+@media only screen and (max-width: 500px ){
+  .md{
+    margin-top:10px;
+  }
+  .mtx{
+    margin-top:20px;
+  }
+  .logo{
+    float: left;
+  }
+  .descriptiontext
+  {
+   text-align: justify;
+    float: left;
+    margin-top:5px;
+   }
+  .lien_Utile
+  {
+    margin-left:-350px;
+  }
+  .lien_UtileA
+  {
+   margin-left:-40px;
+  }
+  .lien_UtileB
+  {
+   margin-left:-25px;
+  }
+  .lien_UtileC
+  {
+    margin-left:-40px;
+  }
+  .lien_UtileD
+  {
+    margin-left: -25px;
+  }
+ 
+}
