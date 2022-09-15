@@ -5,7 +5,11 @@
   .mtx{
     margin-top:20px;
   }
-  .logo{
+  .imgc{
+    max-width:450px;
+    max-height:300px;
+  }
+  /*.logo{
     float: left;
   }
   .descriptiontext
@@ -34,5 +38,5 @@
   {
     margin-left: -25px;
   }
- 
+ */
 }

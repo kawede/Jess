@@ -1,5 +1,4 @@
 <?php include('header.php'); ?>
-
 <!-- fin header -->
 <!-- Fin Bar de navigation -->
 <div class="col-md-12" style="background-color: rgb(101,147,183);">
@@ -15,13 +14,13 @@
       <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="assets/images/1.jpg" style="height: 450px;" >
+            <img src="assets/images/1.jpg" class="imgc" style="height: 450px;" >
           </div>
           <div class="carousel-item">
-            <img src="assets/images/2.jpg" style="height: 450px;" >
+            <img src="assets/images/2.jpg" class="imgc"  style="height: 450px;" >
           </div>
           <div class="carousel-item">
-            <img src="assets/images/3.jpg" style="height: 450px;" >
+            <img src="assets/images/3.jpg" class="imgc"  style="height: 450px;" >
           </div>
         </div>
         <!-- <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
