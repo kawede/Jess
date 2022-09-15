@@ -25,13 +25,13 @@
         <div class="collapse navbar-collapse " id="navbarScroll">
           <ul class="navbar-nav me-auto   mr-auto list-unstyled" style="--bs-scroll-height: 100px;">
             <li class="nav-item active ">
-              <a class="nav-link active" aria-current="page" href="index" style="font-weight: bold;font-size: 20px;">Home</a>
+              <a class="nav-link active" aria-current="page" href="index.php" style="font-weight: bold;font-size: 20px;">Home</a>
             </li>
             <li class="nav-item ">
-              <a class="nav-link " aria-current="page" href="about" style="font-weight: bold;font-size: 20px;">A propos</a>
+              <a class="nav-link " aria-current="page" href="about.php" style="font-weight: bold;font-size: 20px;">A propos</a>
             </li>
             <li class="nav-item " >
-              <a class="nav-link " aria-current="page" href="contact" style="font-weight: bold;font-size: 20px;">contact</a>
+              <a class="nav-link " aria-current="page" href="contact.php" style="font-weight: bold;font-size: 20px;">contact</a>
             </li>
           </ul>
           <form class="d-flex">

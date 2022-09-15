@@ -38,13 +38,13 @@
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-black mb-3">Nos Services</h5>
                     <ul class="list-unstyled text-black">
-                        <li><a href="" style="text-decoration: none;">Accueil</a></li>
+                        <li><a href="index.php" style="text-decoration: none;">Accueil</a></li>
                         <hr>
-                        <li><a href="about"style="text-decoration: none;">A propos</a></li>
+                        <li><a href="about.php"style="text-decoration: none;">A propos</a></li>
                          <hr>
-                        <li><a href="contact"style="text-decoration: none;">Contact</a></li>
+                        <li><a href="contact.php"style="text-decoration: none;">Contact</a></li>
                          <hr>
-                        <li><a href="privacy"style="text-decoration: none;">Termes & Conditions</a></li>
+                        <li><a href="privacy.php"style="text-decoration: none;">Termes & Conditions</a></li>
                     </ul>
                 </div>
 
@@ -63,7 +63,7 @@
         </div>
         <hr>
         <div class="text-center text-black" style="font-family: Arial;">
-          Copyright © 2022 Jess | <a href="privacys" style="text-decoration: none;">Privacy</a>
+          Copyright © 2022 Jess | <a href="privacy.php" style="text-decoration: none;">Privacy</a>
         </div>
     </footer>
 <!-- fin footer -->
