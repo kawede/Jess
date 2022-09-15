@@ -1,35 +1,5 @@
-<div class="col-md-12" style="background-color: rgb(101,147,183);">
-  <br><br><br>
-  <div class="container mt-4">
-    <div class="row">
-      <div class="col-md-7 massistance" style="background-image:url('assets/images/22.jpg');">
-      <div class="container">
-        <h1 class="text-white text-bold mt-4">Assistance 24/7 pour vous</h1>
-        <p class="text-white text-bold">Notre support client est actif 24 heures sur 7 jours pour vous assister.Une équipe déterminée pour vous apporter les solutions à tout problème lié avec votre compte. Nous sommes très poli et très courtois envers nos clients</p>
-        <div id="typed-strings">
-          <h3>Problemes techinques</h3>
-          <p class="mb-3"></p>
-          <p class="mb-3">Difficultés Rencontrées</p>
-          <p class="mb-3">Questions diverses</p>       
-        </div>
-        <span id="typed" class="fs-3 text-white"></span>
-      </div>
-      <button type="button" class="btn btn-outline-secondary mt-2"style="color: white; -family:Arial; font-weight: bold;border:2px solid white ">Nous contacter</button></h2> 
-    </div>
-    <div class="col-md-5 mtx">
-      <div class="container">
-        <img src="assets/images/phone.png" style="max-width:300px;">
-      </div>
-    </div>
-    </div>
-  </div>
-  <br><br><br>
-</div>
-<!-- Fin Bannier -->
-<div class="col-md-12">
-  <footer class="text-center text-lg-start bg-light text-muted">
-  <!-- Section: Social media -->
-  <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+<footer class="w-100 py-4 flex-shrink-0" style="background-color: rgb(248,249,250); ">
+   <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom" style="background-color: rgb(248,249,250);">
     <!-- Left -->
     <div class="me-5 d-none d-lg-block">
       <span style="color: black;">Get connected with us on social networks:</span>
@@ -58,77 +28,45 @@
     </div>
     <!-- Right -->
   </section>
-  <!-- Section: Social media -->
+        <div class="container py-4">
+            <div class="row gy-4 gx-5">
+                <div class="col-lg-4 col-md-6">
+                    <a class="navbar-brand" href="#"><img src="assets/images/Jess_logo10.png" class="logo" style="max-width:130px;"></a>
+                    <p class="small text-black text-left">Jess est une Intelligence artificielle ; une plateforme d’assistance de la société Photon corporation avec un modèle d’affaire basé sur les abonnements.  </p>
+                    <p class="small text-muted mb-0 text-left">&copy; Copyrights Jess 2022.
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <h5 class="text-black mb-3">Nos Services</h5>
+                    <ul class="list-unstyled text-black">
+                        <li><a href="" style="text-decoration: none;">Accueil</a></li>
+                        <hr>
+                        <li><a href="about"style="text-decoration: none;">A propos</a></li>
+                         <hr>
+                        <li><a href="contact"style="text-decoration: none;">Contact</a></li>
+                         <hr>
+                        <li><a href="privacy"style="text-decoration: none;">Termes & Conditions</a></li>
+                    </ul>
+                </div>
 
-  <!-- Section: Links  -->
-  <section class="text-left">
-    <div class="container text-center text-md-start mt-5">
-      <!-- Grid row -->
-      <div class="row mt-3">
-        <!-- Grid column -->
-        <div class="col-md-4 ">
-          <!-- Content -->
-          <h6 class="text-uppercase fw-bold">
-            <a class="navbar-brand" href="#"><img src="assets/images/Jess_logo10.png" class="logo" style="max-width:130px;"></a>
-          </h6>
-
-          <p class="text-left descriptiontext" style="color:black;">
-            Jess est une Intelligence artificielle ; une plateforme d’assistance de la société Photon corporation avec un modèle d’affaire basé sur les abonnements.       
-          </p>
+               
+                <div class="col-lg-4 col-md-6">
+                    <h5 class="text-black mb-3">Newsletter</h5>
+                    <p class="small text-black text-left">Soyez les premiers à recevoir les premières opportunités grace à notre messagerie directe</p>
+                    <form action="send" method="post">
+                        <div class="input-group mb-3">
+                            <input class="form-control" name="email" type="email" placeholder="email" aria-label="Recipient's username" aria-describedby="button-addon2" required="" style="background-color: white; color:white;">
+                            <input type="submit" name="submit" class="btn btn-primary" style="background-color: rgb(77,117,156); border:1px solid:rgb(77,117,156); ">
+                        </div>
+                    </form>
+                </div>
+            </div>
         </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-4 ">
-          <!-- Links -->
-         <ul class="lien_Utile">
-            <h6 class="text-uppercase text-black fw-bold mb-4 ">
-            Lien Utiles
-          </h6>
-          <p>
-            <a href="#!" class="text-black lien_UtileA" style="text-decoration:none;">Accueil</a>
-          </p>
-          <p>
-            <a href="about" class="text-black lien_UtileB" style="text-decoration:none;">A propos</a>
-          </p>
-          <p>
-            <a href="contact" class="text-black lien_UtileC" style="text-decoration:none;">Contact</a>
-          </p>
-          <p>
-            <a href="#!" class="text-black lien_UtileD" style="text-decoration:none;">S'abonner</a>
-          </p>
-         </ul>
+        <hr>
+        <div class="text-center text-black" style="font-family: Arial;">
+          Copyright © 2022 Jess | <a href="privacys" style="text-decoration: none;">Privacy</a>
         </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-4 ">
-          <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4 text-black">Contact</h6>
-          <p class="text-black" style="font-size: 15px;"><i class="fa fa-home me-3"></i> 136, Av la frontière, Q. Katindo C/ville de Goma</p>
-          <p class="text-black">
-            <i class="fa fa-envelope me-3"></i>
-            info@jess.com
-          </p>
-          <p class="text-black"><i class="fa fa-phone me-3"></i> + 243</p>
-          <p class="text-black"><i class="fa fa-print me-3"></i>RCCM: CD/GOM/RCCM/20-B-00364</p>
-        </div>
-        <!-- Grid column -->
-      </div>
-      <!-- Grid row -->
-    </div>
-  </section>
-  <!-- Section: Links  -->
-
-  <!-- Copyright -->
-  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-    <!-- <a class="text-right" style="float:left; text-decoration: none; font-size:12px;">Politique de confidentialité</a> -->
-    <span class="text-black">Jess © 2022 Copyright</span>
-    <a href="privacy" class="text-right" style="float:right;text-decoration: none;font-size:12px;">Termes & Conditions Générales</a>
-  </div>
-  <!-- Copyright -->
-</footer>
-</div>
+    </footer>
+<!-- fin footer -->
 </body>
 <script src="assets/js/map.js"></script>
     <script src="assets/js/jquery.js"></script>
@@ -140,3 +78,4 @@
    <script src="assets/demo/demos.js"></script> 
     <script src="assets/lib/typed.js" type="text/javascript"></script>   
 </html>
+</body>
